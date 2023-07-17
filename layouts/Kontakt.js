@@ -10,7 +10,7 @@ const Contact = ({ data }) => {
     <section class="bg-gray-50 dark:bg-gray-800">
     <div class="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6 ">
         {markdownify(title, "h1", "text-center font-normal mt-24 ")}
-        <div className="section row pb-0">
+        <div className="section  row pb-0">
           <div className="col-12 md:col-6 lg:col-7">
             <form
               className="contact-form"
@@ -56,9 +56,9 @@ const Contact = ({ data }) => {
               </button>
             </form>
           </div>
-          <div className="content col-12 md:col-6 lg:col-5">
-            {markdownify(info.title, "h4")}
-            {markdownify(info.description, "p", "mt-4")}
+          <div className="content  col-12 md:col-6 lg:col-5">
+            {markdownify(info.title, "h4","text-white")}
+            {markdownify(info.description, "p", "mt-4 text-gray-500")}
             <ul className="contact-list mt-5">
               {info.contacts.map((contact, index) => (
                 <li key={index}>

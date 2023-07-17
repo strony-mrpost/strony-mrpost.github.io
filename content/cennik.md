@@ -4,50 +4,32 @@ layout: cennik
 draft: false
 plans:
 - title: Plan Podstawowy
-  subtitle: Najlepszy dla małych firm
+  subtitle: Optymalny dla małych firm, które chcą zwiększyć swoją obecność online
   price: 499
   type: miesiąc
   features:
-    - Kampanie reklamowe
-    - Optymalizacja witryny
-    - Raporty analityczne
-  button:
-    label: Rozpocznij za darmo
-    link: "/kontakt"
+    - Tworzenie i monitorowanie kampanii reklamowych
+    - Optymalizacja witryny pod kątem SEO
+    - Analiza konkurencji i raportowanie wyników
 
 - title: Plan Profesjonalny
-  subtitle: Najlepszy dla profesjonalistów
+  subtitle: Skierowany do profesjonalistów, którzy chcą maksymalnie wykorzystać potencjał marketingu online
   price: 699
   type: miesiąc
   recommended: true
   features:
-    - Kampanie reklamowe
-    - Optymalizacja witryny
-    - Raporty analityczne
-    - Badania rynkowe
-    - Kreacja graficzna
-  button:
-    label: Rozpocznij
-    link: "/kontakt"
+    - Tworzenie i monitorowanie kampanii reklamowych na wielu platformach
+    - Optymalizacja witryny pod kątem SEO i UX
+    - Badania rynkowe i analiza trendów branżowych
+    - Kreacja graficzna i tworzenie treści
 
 - title: Plan Biznesowy
-  subtitle: Najlepszy dla dużych firm
+  subtitle: Stworzony dla dużych firm, które chcą osiągnąć przewagę konkurencyjną w świecie online
   price: 999
   type: miesiąc
   features:
     - Plan Profesjonalny
-    - Audyt konkurencji
-    - Zarządzanie kampaniami reklamowymi
-  button:
-    label: Rozpocznij
-    link: "/kontakt"
+    - Audyt konkurencji i strategia marketingowa
+    - Zarządzanie kompleksowymi kampaniami reklamowymi na różnych rynkach
 
-call_to_action:
-  title: Potrzebujesz większego planu?
-  content: Skontaktuj się z nami, aby omówić szczegóły i znaleźć optymalne rozwiązanie dla Twojej firmy.
-  image: '/images/cta.svg'
-  button:
-    enable: true
-    label: "Skontaktuj się z nami"
-    link: "/kontakt"
 ---

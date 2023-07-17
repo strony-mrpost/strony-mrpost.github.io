@@ -1,19 +1,14 @@
 {
   "site": {
-    "title": "Impactia - ekspert w tworzeniu strategii reklamowych",
+    "title": "Novus Global - Twój partner w przyszłości.",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "125",
-    "logo_text": "Impactia"
+    "logo_text": "Novus Global"
   },
 
-  "settings": {
-    "pagination": 4,
-    "summary_length": 200,
-    "blog_folder": "blogs"
-  },
 
   "nav_button": {
     "enable": true,
@@ -24,13 +19,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Założona na bazie pasji i kreatywności, nasza agencja reklamowa oferuje profesjonalne usługi marketingowe. Skontaktuj się z nami już dziś!",
-    "copyright": "Projekt i rozwój: Impactia"
+    "footer_content": "Novus Global - Twój sukces to nasza pasja. Skontaktuj się z nami już dziś i odkryj, jak możemy pomóc rozwinąć Twój biznes na globalną skalę.",
+    "copyright": "Projekt i rozwój: Novus Global"
   },
 
   "metadata": {
     "meta_author": "Me",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Agencja reklamowa Impactia - ekspert w tworzeniu strategii reklamowych i kampanii marketingowych dla twojej firmy. Zbuduj z nami trwały wpływ dla Twojej marki."
+    "meta_description": "Novus Global to wiodąca firma, oferująca innowacyjne rozwiązania i usługi dla przedsiębiorstw. Zaufaj naszemu doświadczeniu i wybierz partnera przyszłości."
   }
 }
