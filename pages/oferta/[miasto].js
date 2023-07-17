@@ -35,7 +35,6 @@ const Ofertas = () => {
   
   return (
     <Base>
-     <>
 <section class="bg-gray-50 dark:bg-gray-800">
     <div class="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6">
         {/* <!-- Row --> */}
@@ -161,7 +160,7 @@ const Ofertas = () => {
         <path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/>
       </svg> 
       <blockquote>
-        <p class="text-xl font-medium text-gray-900 md:text-2xl dark:text-white">"Novus Global to niesamowita agencja marketingowa. Posiadają bogate doświadczenie i oferują usługi najwyższej jakości, począwszy od tworzenia kreatywnych kampanii reklamowych po skuteczne zarządzanie mediami społecznościowymi. Gorąco polecamy wszystkim firmom, które chcą wzmocnić swoje działania marketingowe."</p>
+        <p class="text-xl font-medium text-gray-900 md:text-2xl dark:text-white">Novus Global to niesamowita agencja marketingowa. Posiadają bogate doświadczenie i oferują usługi najwyższej jakości, począwszy od tworzenia kreatywnych kampanii reklamowych po skuteczne zarządzanie mediami społecznościowymi. Gorąco polecamy wszystkim firmom, które chcą wzmocnić swoje działania marketingowe.</p>
       </blockquote>
       <figcaption class="flex items-center justify-center mt-6 space-x-3">
         {/* <!-- <img class="w-6 h-6 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="profile picture"> --> */}
@@ -199,7 +198,6 @@ const Ofertas = () => {
         </div>
     </section>
     </div>   
-    </>
       </Base>
   );
 }
